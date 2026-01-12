@@ -1,0 +1,482 @@
+data,descricao,categoria,valor,tipo,estabelecimento,metodo_pagamento
+2025-01-01,Plano de Saúde,saude,450.0,saida,Drogaria Saúde,debito
+2025-01-01,Academia,saude,99.0,saida,Laboratório Diagnóstico,pix
+2025-01-01,Parque,lazer,147.16,saida,Livraria Cultura,credito
+2025-01-01,Curso,transporte,639.7,saida,Metrô,credito
+2025-01-02,Educacao,educacao,85.88,saida,Faculdade Digital,pix
+2025-01-02,Educacao,educacao,98.14,saida,Livraria Saraiva,pix
+2025-01-03,Combustível,transporte,41.39,saida,Ônibus Municipal,pix
+2025-01-03,Estacionamento,transporte,35.27,saida,Posto Ipiranga,pix
+2025-01-05,Salário,receita,5303.57,entrada,Empresa ABC Ltda,pix
+2025-01-05,Celular,servicos,89.9,saida,Assistência Técnica,debito
+2025-01-06,Lanche,alimentacao,20.7,saida,Supermercado Bom Preço,debito
+2025-01-07,Aluguel,moradia,1200.0,saida,Casa Nova Imobiliária,credito
+2025-01-07,Servicos,servicos,51.62,saida,Assistência Técnica,pix
+2025-01-07,Educacao,educacao,85.26,saida,Faculdade Digital,pix
+2025-01-08,Condomínio,moradia,350.0,saida,Morada Feliz,credito
+2025-01-08,Estacionamento,transporte,53.56,saida,Metrô,debito
+2025-01-09,Streaming (Netflix+Spotify),lazer,79.9,saida,Academia FitPro,credito
+2025-01-09,Almoço,alimentacao,9.89,saida,Feira Livre Central,credito
+2025-01-09,Restaurante,lazer,90.21,saida,Spotify,debito
+2025-01-09,Educacao,educacao,91.53,saida,Editora Moderna,pix
+2025-01-10,Internet,moradia,120.0,saida,Conforto Lar,debito
+2025-01-13,Vestuario,vestuario,39.83,saida,C&A,credito
+2025-01-13,Educacao,educacao,103.58,saida,Faculdade Digital,pix
+2025-01-14,Padaria,alimentacao,35.42,saida,Hiper Atacado,debito
+2025-01-14,Educacao,educacao,57.76,saida,Editora Moderna,credito
+2025-01-15,Vestuario,vestuario,43.44,saida,Zara,credito
+2025-01-15,Vestuario,vestuario,33.53,saida,Nike,debito
+2025-01-15,Metrô,transporte,27.65,saida,99 Taxi,credito
+2025-01-16,Vestuario,vestuario,86.51,saida,Adidas,credito
+2025-01-16,Vestuario,vestuario,98.06,saida,Pet Shop Amigo Fiel,pix
+2025-01-17,Vestuario,vestuario,26.69,saida,Renner,credito
+2025-01-17,Servicos,servicos,20.79,saida,Salão Beauty,credito
+2025-01-20,Combustível,transporte,20.85,saida,Metrô,credito
+2025-01-21,Vestuario,vestuario,99.75,saida,Restaurante Sabor Caseiro,debito
+2025-01-23,Cinema,lazer,100.34,saida,Cinema Multiplex,debito
+2025-01-23,Servicos,servicos,46.85,saida,Salão Beauty,pix
+2025-01-27,Uber,transporte,49.05,saida,Padaria Pão Quente,pix
+2025-01-28,Bar,lazer,27.46,saida,Lanchonete Rápida,debito
+2025-01-28,Vestuario,vestuario,85.9,saida,Restaurante Sabor Caseiro,credito
+2025-01-29,Combustível,transporte,70.15,saida,Posto Ipiranga,pix
+2025-01-29,Ônibus,transporte,74.78,saida,Ônibus Municipal,pix
+2025-01-29,Reforma,lazer,525.74,saida,Parque Aquático,debito
+2025-01-31,Mercado,alimentacao,28.16,saida,Supermercado Bom Preço,pix
+2025-01-31,Café,alimentacao,41.37,saida,Banca de Jornais,credito
+2025-01-31,Bar,lazer,57.74,saida,Pet Shop Amigo Fiel,debito
+2025-02-01,Plano de Saúde,saude,450.0,saida,Clínica Bem Estar,credito
+2025-02-01,Academia,saude,99.0,saida,Laboratório Diagnóstico,debito
+2025-02-02,Celular,servicos,89.9,saida,Assistência Técnica,pix
+2025-02-03,Internet,moradia,120.0,saida,Imobiliária Sol Nascente,pix
+2025-02-03,Metrô,transporte,55.23,saida,Posto Ipiranga,debito
+2025-02-04,Metrô,transporte,54.75,saida,Ônibus Municipal,debito
+2025-02-04,Janta,alimentacao,34.75,saida,Feira Livre Central,credito
+2025-02-04,Show,lazer,26.77,saida,Parque Aquático,debito
+2025-02-05,Salário,receita,5312.22,entrada,Empresa ABC Ltda,pix
+2025-02-05,Café,alimentacao,23.41,saida,Hiper Atacado,credito
+2025-02-05,Servicos,servicos,83.06,saida,Manutenção Residencial,debito
+2025-02-06,Aluguel,moradia,1200.0,saida,Imobiliária Sol Nascente,credito
+2025-02-06,Educacao,educacao,111.95,saida,Editora Moderna,credito
+2025-02-06,Educacao,educacao,34.3,saida,Cursos Online Academy,debito
+2025-02-07,Vestuario,vestuario,42.03,saida,Nike,debito
+2025-02-07,Mercado,alimentacao,10.2,saida,Supermercado Bom Preço,pix
+2025-02-08,Condomínio,moradia,350.0,saida,Lar Seguro Imóveis,debito
+2025-02-10,Streaming (Netflix+Spotify),lazer,79.9,saida,Cinema Multiplex,debito
+2025-02-10,Vestuario,vestuario,71.36,saida,Loja de Conveniência,credito
+2025-02-10,Lanche,alimentacao,19.5,saida,Mercado Econômico,debito
+2025-02-12,Equipamento,transporte,468.57,saida,99 Taxi,debito
+2025-02-13,Mercado,alimentacao,26.63,saida,Hiper Atacado,debito
+2025-02-13,Servicos,servicos,32.02,saida,Manutenção Residencial,credito
+2025-02-14,Almoço,alimentacao,21.65,saida,Supreme Supermercados,debito
+2025-02-14,Estacionamento,transporte,65.45,saida,Metrô,debito
+2025-02-17,Equipamento,alimentacao,663.25,saida,Hiper Atacado,credito
+2025-02-18,Cinema,lazer,114.93,saida,Netflix,debito
+2025-02-18,Estacionamento,transporte,79.47,saida,Posto Shell,credito
+2025-02-20,Vestuario,vestuario,92.86,saida,C&A,pix
+2025-02-20,Vestuario,vestuario,76.68,saida,H&M,credito
+2025-02-20,Vestuario,vestuario,57.09,saida,Renner,debito
+2025-02-26,Combustível,transporte,67.51,saida,Posto Ipiranga,credito
+2025-02-27,Ônibus,transporte,39.22,saida,Posto Ipiranga,debito
+2025-02-27,Metrô,transporte,43.86,saida,Ônibus Municipal,credito
+2025-03-02,Condomínio,moradia,350.0,saida,Imobiliária Sol Nascente,debito
+2025-03-04,Streaming (Netflix+Spotify),lazer,79.9,saida,Parque Aquático,debito
+2025-03-04,Cinema,lazer,138.45,saida,Bar do Zé,credito
+2025-03-05,Salário,receita,4552.18,entrada,Empresa ABC Ltda,pix
+2025-03-05,Servicos,servicos,104.13,saida,Assistência Técnica,credito
+2025-03-05,Educacao,educacao,105.81,saida,Faculdade Digital,credito
+2025-03-06,Aluguel,moradia,1200.0,saida,Morada Feliz,debito
+2025-03-06,Plano de Saúde,saude,450.0,saida,Clínica Bem Estar,debito
+2025-03-06,Celular,servicos,89.9,saida,Manutenção Residencial,credito
+2025-03-06,Educacao,educacao,109.7,saida,Loja de Materiais de Construção,debito
+2025-03-06,Almoço,alimentacao,16.63,saida,Supreme Supermercados,credito
+2025-03-07,Academia,saude,99.0,saida,Farmácia Popular,pix
+2025-03-10,Internet,moradia,120.0,saida,Conforto Lar,credito
+2025-03-11,Vestuario,vestuario,97.91,saida,Zara,credito
+2025-03-13,Educacao,educacao,69.93,saida,Livraria Saraiva,credito
+2025-03-13,Restaurante,lazer,62.66,saida,Restaurante Sabor Caseiro,pix
+2025-03-14,Restaurante,lazer,96.77,saida,Spotify,pix
+2025-03-14,Café,alimentacao,18.5,saida,Supermercado Bom Preço,debito
+2025-03-14,Educacao,educacao,97.22,saida,Editora Moderna,debito
+2025-03-17,Lanche,alimentacao,18.15,saida,Feira Livre Central,pix
+2025-03-18,Servicos,servicos,95.08,saida,Manutenção Residencial,debito
+2025-03-18,Estacionamento,transporte,40.01,saida,Ônibus Municipal,debito
+2025-03-18,Curso,lazer,354.82,saida,Cinema Multiplex,pix
+2025-03-19,Almoço,alimentacao,14.16,saida,Supermercado Bom Preço,credito
+2025-03-20,Bar,lazer,65.63,saida,Spotify,credito
+2025-03-21,Combustível,transporte,58.06,saida,99 Taxi,debito
+2025-03-22,Presente,educacao,505.9,saida,Livraria Saraiva,debito
+2025-03-26,Ônibus,transporte,68.55,saida,Uber,debito
+2025-03-28,Servicos,servicos,40.98,saida,Manutenção Residencial,credito
+2025-03-28,Servicos,servicos,30.35,saida,Barbearia Elite,credito
+2025-04-01,Celular,servicos,89.9,saida,Manutenção Residencial,credito
+2025-04-01,Streaming (Netflix+Spotify),lazer,79.9,saida,Netflix,credito
+2025-04-01,Vestuario,vestuario,50.27,saida,Cafeteria Aroma,debito
+2025-04-03,Aluguel,moradia,1200.0,saida,Morada Feliz,credito
+2025-04-03,Internet,moradia,120.0,saida,Imobiliária Sol Nascente,debito
+2025-04-03,Ônibus,transporte,56.98,saida,Uber,credito
+2025-04-03,Vestuario,vestuario,47.16,saida,Renner,debito
+2025-04-04,Servicos,servicos,38.08,saida,Barbearia Elite,pix
+2025-04-04,Vestuario,vestuario,31.4,saida,Adidas,debito
+2025-04-04,Bar,lazer,88.75,saida,Cinema Multiplex,debito
+2025-04-05,Salário,receita,4544.02,entrada,Empresa ABC Ltda,pix
+2025-04-07,Vestuario,vestuario,95.11,saida,Adidas,debito
+2025-04-07,Educacao,educacao,74.55,saida,Editora Moderna,credito
+2025-04-08,Academia,saude,99.0,saida,Drogaria Saúde,pix
+2025-04-08,Servicos,servicos,65.91,saida,Assistência Técnica,debito
+2025-04-08,Servicos,servicos,62.26,saida,Oficina Mecânica,debito
+2025-04-08,Ônibus,transporte,78.61,saida,Posto Ipiranga,pix
+2025-04-09,Condomínio,moradia,350.0,saida,Morada Feliz,pix
+2025-04-09,Plano de Saúde,saude,450.0,saida,Academia Vida Saudável,pix
+2025-04-09,Café,alimentacao,16.57,saida,Supreme Supermercados,pix
+2025-04-11,Vestuario,vestuario,30.9,saida,Renner,debito
+2025-04-11,Parque,lazer,84.82,saida,Cinema Multiplex,debito
+2025-04-11,Servicos,servicos,117.17,saida,Assistência Técnica,credito
+2025-04-15,Educacao,educacao,48.18,saida,Bar do Zé,credito
+2025-04-15,Vestuario,vestuario,82.62,saida,H&M,pix
+2025-04-15,Estacionamento,transporte,18.16,saida,Ônibus Municipal,debito
+2025-04-16,Servicos,servicos,29.42,saida,Salão Beauty,pix
+2025-04-16,Vestuario,vestuario,87.02,saida,Adidas,debito
+2025-04-16,Educacao,educacao,70.77,saida,Loja de Conveniência,pix
+2025-04-17,Servicos,servicos,46.47,saida,Salão Beauty,pix
+2025-04-18,Servicos,servicos,78.21,saida,Salão Beauty,credito
+2025-04-18,Parque,lazer,120.44,saida,Spotify,credito
+2025-04-18,Janta,alimentacao,14.23,saida,Mercado Econômico,debito
+2025-04-22,Vestuario,vestuario,96.0,saida,H&M,debito
+2025-04-22,Vestuario,vestuario,53.39,saida,Adidas,credito
+2025-04-22,Educacao,educacao,73.1,saida,Livraria Saraiva,debito
+2025-04-23,Café,alimentacao,41.05,saida,Supreme Supermercados,pix
+2025-04-24,Bar,lazer,57.85,saida,Parque Aquático,debito
+2025-04-24,Vestuario,vestuario,108.92,saida,Nike,credito
+2025-04-24,Servicos,servicos,84.29,saida,Salão Beauty,credito
+2025-04-27,Compra do Mês,servicos,510.47,saida,Barbearia Elite,pix
+2025-04-28,Vestuario,vestuario,30.3,saida,Zara,debito
+2025-04-29,Metrô,transporte,76.91,saida,Posto Shell,pix
+2025-04-29,Vestuario,vestuario,112.9,saida,H&M,debito
+2025-04-29,Lanche,alimentacao,19.21,saida,Mercado Econômico,pix
+2025-05-01,Estacionamento,transporte,30.5,saida,99 Taxi,debito
+2025-05-01,Educacao,educacao,102.27,saida,Editora Moderna,debito
+2025-05-01,Compra do Mês,educacao,489.43,saida,Editora Moderna,debito
+2025-05-03,Academia,saude,99.0,saida,Laboratório Diagnóstico,pix
+2025-05-03,Celular,servicos,89.9,saida,Barbearia Elite,pix
+2025-05-04,Streaming (Netflix+Spotify),lazer,79.9,saida,Cinema Multiplex,credito
+2025-05-05,Salário,receita,5488.03,entrada,Empresa ABC Ltda,pix
+2025-05-05,Aluguel,moradia,1200.0,saida,Morada Feliz,pix
+2025-05-05,Almoço,alimentacao,31.45,saida,Hiper Atacado,debito
+2025-05-06,Condomínio,moradia,350.0,saida,Imobiliária Sol Nascente,debito
+2025-05-07,Almoço,alimentacao,30.96,saida,Supermercado Bom Preço,credito
+2025-05-07,Parque,lazer,126.15,saida,Academia FitPro,debito
+2025-05-08,Plano de Saúde,saude,450.0,saida,Farmácia Popular,debito
+2025-05-08,Internet,moradia,120.0,saida,Morada Feliz,credito
+2025-05-09,Uber,transporte,29.25,saida,Posto Ipiranga,credito
+2025-05-11,Equipamento,vestuario,184.03,saida,C&A,credito
+2025-05-12,Parque,lazer,77.04,saida,Spotify,debito
+2025-05-12,Vestuario,vestuario,94.18,saida,Nike,credito
+2025-05-12,Ônibus,transporte,81.28,saida,Posto Ipiranga,debito
+2025-05-13,Reforma,lazer,586.87,saida,Spotify,debito
+2025-05-14,Estacionamento,transporte,72.25,saida,Posto Ipiranga,pix
+2025-05-16,Educacao,educacao,116.18,saida,Faculdade Digital,credito
+2025-05-16,Servicos,servicos,115.26,saida,Manutenção Residencial,pix
+2025-05-19,Estacionamento,transporte,64.53,saida,Uber,pix
+2025-05-19,Janta,alimentacao,28.31,saida,Hiper Atacado,debito
+2025-05-20,Café,alimentacao,16.48,saida,Supermercado Bom Preço,credito
+2025-05-20,Servicos,servicos,40.98,saida,Salão Beauty,credito
+2025-05-20,Mercado,alimentacao,19.36,saida,Supreme Supermercados,pix
+2025-05-21,Café,alimentacao,13.62,saida,Supermercado Bom Preço,pix
+2025-05-21,Restaurante,lazer,44.27,saida,Netflix,pix
+2025-05-22,Educacao,educacao,56.55,saida,Livraria Saraiva,debito
+2025-05-23,Vestuario,vestuario,61.46,saida,C&A,debito
+2025-05-23,Educacao,educacao,59.47,saida,Livraria Saraiva,pix
+2025-05-23,Equipamento,transporte,450.71,saida,Ônibus Municipal,debito
+2025-05-26,Educacao,educacao,92.0,saida,Livraria Saraiva,debito
+2025-05-26,Bar,lazer,125.63,saida,Parque Aquático,debito
+2025-05-27,Servicos,servicos,85.03,saida,Manutenção Residencial,pix
+2025-05-27,Vestuario,vestuario,111.69,saida,Renner,credito
+2025-05-27,Servicos,servicos,21.87,saida,Barbearia Elite,debito
+2025-05-27,Equipamento,educacao,601.56,saida,Faculdade Digital,debito
+2025-05-28,Almoço,alimentacao,9.14,saida,Hiper Atacado,debito
+2025-05-29,Cinema,lazer,43.02,saida,Cinema Multiplex,pix
+2025-05-30,Ônibus,transporte,44.61,saida,Ônibus Municipal,pix
+2025-06-01,Curso,servicos,607.85,saida,Manutenção Residencial,credito
+2025-06-02,Celular,servicos,89.9,saida,Salão Beauty,debito
+2025-06-02,Vestuario,vestuario,55.6,saida,Banca de Jornais,credito
+2025-06-02,Educacao,educacao,94.76,saida,Cursos Online Academy,credito
+2025-06-02,Educacao,educacao,32.64,saida,Loja de Eletrônicos,debito
+2025-06-04,Servicos,servicos,83.0,saida,Barbearia Elite,credito
+2025-06-04,Servicos,servicos,86.21,saida,Assistência Técnica,credito
+2025-06-05,Salário,receita,5008.54,entrada,Empresa ABC Ltda,pix
+2025-06-05,Educacao,educacao,61.76,saida,Faculdade Digital,credito
+2025-06-05,Restaurante,lazer,36.7,saida,Academia FitPro,credito
+2025-06-08,Internet,moradia,120.0,saida,Conforto Lar,debito
+2025-06-09,Aluguel,moradia,1200.0,saida,Imobiliária Sol Nascente,debito
+2025-06-09,Academia,saude,99.0,saida,Drogaria Saúde,credito
+2025-06-09,Streaming (Netflix+Spotify),lazer,79.9,saida,Academia FitPro,credito
+2025-06-09,Almoço,alimentacao,37.33,saida,Feira Livre Central,debito
+2025-06-09,Vestuario,vestuario,54.46,saida,H&M,debito
+2025-06-09,Metrô,transporte,30.75,saida,Uber,credito
+2025-06-10,Condomínio,moradia,350.0,saida,Lar Seguro Imóveis,credito
+2025-06-10,Plano de Saúde,saude,450.0,saida,Academia Vida Saudável,credito
+2025-06-10,Vestuario,vestuario,57.38,saida,Loja de Eletrônicos,debito
+2025-06-10,Mercado,alimentacao,19.01,saida,Supermercado Bom Preço,pix
+2025-06-10,Parque,lazer,99.7,saida,Spotify,credito
+2025-06-11,Servicos,servicos,40.04,saida,Barbearia Elite,debito
+2025-06-11,Vestuario,vestuario,39.06,saida,Renner,pix
+2025-06-13,Metrô,transporte,35.91,saida,99 Taxi,debito
+2025-06-13,Educacao,educacao,93.16,saida,Livraria Saraiva,credito
+2025-06-13,Café,alimentacao,29.69,saida,Hiper Atacado,debito
+2025-06-15,13º Salário,receita,2500.0,entrada,Empresa ABC Ltda,pix
+2025-06-16,Servicos,servicos,71.97,saida,Barbearia Elite,pix
+2025-06-17,Vestuario,vestuario,22.75,saida,H&M,credito
+2025-06-17,Estacionamento,transporte,16.86,saida,Restaurante Sabor Caseiro,credito
+2025-06-24,Mercado,alimentacao,38.03,saida,Hiper Atacado,credito
+2025-06-24,Servicos,servicos,82.21,saida,Manutenção Residencial,debito
+2025-06-24,Ônibus,transporte,56.96,saida,Posto Shell,pix
+2025-06-25,Servicos,servicos,66.05,saida,Assistência Técnica,credito
+2025-06-26,Servicos,servicos,33.08,saida,Salão Beauty,debito
+2025-06-27,Uber,transporte,39.72,saida,Ônibus Municipal,pix
+2025-06-30,Cinema,lazer,41.73,saida,Livraria Cultura,credito
+2025-06-30,Vestuario,vestuario,67.54,saida,Nike,pix
+2025-07-01,Vestuario,vestuario,57.23,saida,Renner,debito
+2025-07-01,Metrô,transporte,79.14,saida,Posto Ipiranga,pix
+2025-07-02,Condomínio,moradia,350.0,saida,Casa Nova Imobiliária,debito
+2025-07-02,Padaria,alimentacao,21.34,saida,Hiper Atacado,debito
+2025-07-02,Vestuario,vestuario,67.54,saida,C&A,credito
+2025-07-03,Celular,servicos,89.9,saida,Assistência Técnica,debito
+2025-07-04,Aluguel,moradia,1200.0,saida,Lar Seguro Imóveis,pix
+2025-07-04,Plano de Saúde,saude,450.0,saida,Clínica Bem Estar,credito
+2025-07-04,Almoço,alimentacao,37.42,saida,Mercado Econômico,pix
+2025-07-04,Educacao,educacao,114.37,saida,Lanchonete Rápida,debito
+2025-07-04,Vestuario,vestuario,38.24,saida,C&A,pix
+2025-07-05,Salário,receita,5418.06,entrada,Empresa ABC Ltda,pix
+2025-07-07,Academia,saude,99.0,saida,Drogaria Saúde,debito
+2025-07-07,Vestuario,vestuario,51.31,saida,Nike,debito
+2025-07-07,Janta,alimentacao,39.92,saida,Mercado Econômico,pix
+2025-07-08,Internet,moradia,120.0,saida,Lar Seguro Imóveis,pix
+2025-07-08,Parque,lazer,75.61,saida,Spotify,credito
+2025-07-09,Streaming (Netflix+Spotify),lazer,79.9,saida,Netflix,debito
+2025-07-09,Servicos,servicos,22.3,saida,Salão Beauty,pix
+2025-07-09,Cinema,lazer,59.25,saida,Academia FitPro,debito
+2025-07-09,Parque,lazer,144.21,saida,Netflix,pix
+2025-07-10,Servicos,servicos,80.34,saida,Assistência Técnica,pix
+2025-07-10,Estacionamento,transporte,26.64,saida,Posto Shell,credito
+2025-07-10,Vestuario,vestuario,68.75,saida,Adidas,debito
+2025-07-11,Janta,alimentacao,23.41,saida,Feira Livre Central,pix
+2025-07-14,Educacao,educacao,82.36,saida,Livraria Saraiva,pix
+2025-07-14,Educacao,educacao,24.53,saida,Faculdade Digital,pix
+2025-07-16,Parque,lazer,95.94,saida,Livraria Cultura,credito
+2025-07-16,Padaria,alimentacao,11.07,saida,Pet Shop Amigo Fiel,debito
+2025-07-16,Educacao,educacao,23.66,saida,Bar do Zé,credito
+2025-07-17,Educacao,educacao,35.18,saida,Faculdade Digital,debito
+2025-07-17,Educacao,educacao,29.71,saida,Padaria Pão Quente,pix
+2025-07-18,Ônibus,transporte,39.64,saida,Ônibus Municipal,credito
+2025-07-18,Metrô,transporte,19.26,saida,Metrô,pix
+2025-07-18,Servicos,servicos,92.99,saida,Manutenção Residencial,credito
+2025-07-19,Compra do Mês,servicos,256.92,saida,Barbearia Elite,credito
+2025-07-21,Servicos,servicos,112.16,saida,Barbearia Elite,debito
+2025-07-21,Servicos,servicos,104.57,saida,Salão Beauty,pix
+2025-07-22,Janta,alimentacao,14.06,saida,Supreme Supermercados,debito
+2025-07-22,Vestuario,vestuario,93.51,saida,C&A,debito
+2025-07-22,Educacao,educacao,62.5,saida,Faculdade Digital,credito
+2025-07-24,Servicos,servicos,92.71,saida,Loja de Eletrônicos,credito
+2025-07-28,Uber,transporte,65.92,saida,Metrô,pix
+2025-07-28,Curso,lazer,606.0,saida,Academia FitPro,debito
+2025-07-29,Educacao,educacao,84.92,saida,Pet Shop Amigo Fiel,debito
+2025-07-29,Restaurante,lazer,90.8,saida,Academia FitPro,credito
+2025-07-29,Educacao,educacao,99.79,saida,Editora Moderna,credito
+2025-07-30,Educacao,educacao,102.57,saida,Cursos Online Academy,debito
+2025-07-30,Vestuario,vestuario,82.33,saida,Zara,credito
+2025-07-30,Show,lazer,96.14,saida,Spotify,pix
+2025-07-31,Educacao,educacao,56.75,saida,Cursos Online Academy,pix
+2025-07-31,Educacao,educacao,34.06,saida,Faculdade Digital,credito
+2025-08-01,Janta,alimentacao,44.12,saida,Supreme Supermercados,pix
+2025-08-02,Plano de Saúde,saude,450.0,saida,Academia Vida Saudável,debito
+2025-08-02,Streaming (Netflix+Spotify),lazer,79.9,saida,Spotify,pix
+2025-08-03,Internet,moradia,120.0,saida,Lar Seguro Imóveis,credito
+2025-08-04,Condomínio,moradia,350.0,saida,Conforto Lar,pix
+2025-08-04,Cinema,lazer,31.67,saida,Parque Aquático,credito
+2025-08-04,Vestuario,vestuario,104.62,saida,H&M,debito
+2025-08-05,Salário,receita,4666.06,entrada,Empresa ABC Ltda,pix
+2025-08-05,Metrô,transporte,21.09,saida,Posto Ipiranga,pix
+2025-08-06,Aluguel,moradia,1200.0,saida,Lar Seguro Imóveis,debito
+2025-08-06,Servicos,servicos,61.56,saida,Manutenção Residencial,credito
+2025-08-07,Vestuario,vestuario,38.25,saida,Adidas,debito
+2025-08-07,Educacao,educacao,65.14,saida,Faculdade Digital,pix
+2025-08-07,Estacionamento,transporte,77.78,saida,Loja de Materiais de Construção,debito
+2025-08-08,Celular,servicos,89.9,saida,Salão Beauty,credito
+2025-08-08,Servicos,servicos,84.75,saida,Salão Beauty,credito
+2025-08-10,Academia,saude,99.0,saida,Farmácia Popular,debito
+2025-08-12,Ônibus,transporte,56.6,saida,Posto Shell,pix
+2025-08-12,Vestuario,vestuario,91.09,saida,Nike,credito
+2025-08-13,Servicos,servicos,24.26,saida,Loja de Eletrônicos,credito
+2025-08-13,Bar,lazer,96.56,saida,Padaria Pão Quente,credito
+2025-08-13,Educacao,educacao,89.26,saida,Banca de Jornais,pix
+2025-08-14,Restaurante,lazer,61.83,saida,Livraria Cultura,credito
+2025-08-14,Reforma,servicos,757.62,saida,Barbearia Elite,debito
+2025-08-20,Café,alimentacao,35.46,saida,Mercado Econômico,debito
+2025-08-21,Lanche,alimentacao,14.09,saida,Feira Livre Central,debito
+2025-08-26,Mercado,alimentacao,33.11,saida,Feira Livre Central,debito
+2025-08-26,Vestuario,vestuario,50.89,saida,Banca de Jornais,credito
+2025-08-26,Combustível,transporte,83.58,saida,Metrô,pix
+2025-08-27,Educacao,educacao,119.68,saida,Livraria Saraiva,pix
+2025-08-27,Almoço,alimentacao,26.4,saida,Mercado Econômico,credito
+2025-08-27,Servicos,servicos,34.28,saida,Assistência Técnica,credito
+2025-08-28,Parque,lazer,51.66,saida,Cinema Multiplex,pix
+2025-08-28,Servicos,servicos,22.05,saida,Salão Beauty,pix
+2025-08-28,Servicos,servicos,106.08,saida,Assistência Técnica,pix
+2025-08-29,Educacao,educacao,56.3,saida,Livraria Saraiva,pix
+2025-08-29,Servicos,servicos,86.67,saida,Assistência Técnica,pix
+2025-08-29,Lanche,alimentacao,23.02,saida,Feira Livre Central,pix
+2025-09-01,Servicos,servicos,113.45,saida,Floricultura Primavera,pix
+2025-09-01,Educacao,educacao,63.79,saida,Cursos Online Academy,credito
+2025-09-02,Streaming (Netflix+Spotify),lazer,79.9,saida,Parque Aquático,pix
+2025-09-02,Vestuario,vestuario,103.88,saida,Cafeteria Aroma,credito
+2025-09-03,Plano de Saúde,saude,450.0,saida,Academia Vida Saudável,pix
+2025-09-03,Vestuario,vestuario,72.36,saida,Zara,debito
+2025-09-03,Vestuario,vestuario,92.42,saida,Restaurante Sabor Caseiro,debito
+2025-09-03,Educacao,educacao,65.96,saida,Livraria Saraiva,credito
+2025-09-05,Salário,receita,5412.28,entrada,Empresa ABC Ltda,pix
+2025-09-05,Condomínio,moradia,350.0,saida,Conforto Lar,pix
+2025-09-06,Aluguel,moradia,1200.0,saida,Casa Nova Imobiliária,pix
+2025-09-07,Academia,saude,99.0,saida,Laboratório Diagnóstico,credito
+2025-09-08,Parque,lazer,69.54,saida,Parque Aquático,pix
+2025-09-08,Café,alimentacao,9.93,saida,Supermercado Bom Preço,debito
+2025-09-09,Internet,moradia,120.0,saida,Casa Nova Imobiliária,debito
+2025-09-09,Combustível,transporte,20.57,saida,99 Taxi,debito
+2025-09-09,Servicos,servicos,77.08,saida,Barbearia Elite,pix
+2025-09-10,Celular,servicos,89.9,saida,Manutenção Residencial,pix
+2025-09-11,Servicos,servicos,108.77,saida,Manutenção Residencial,credito
+2025-09-11,Educacao,educacao,103.14,saida,Faculdade Digital,pix
+2025-09-11,Educacao,educacao,53.9,saida,Cursos Online Academy,pix
+2025-09-12,Educacao,educacao,22.1,saida,Cursos Online Academy,debito
+2025-09-12,Reforma,lazer,185.82,saida,Livraria Cultura,credito
+2025-09-15,Educacao,educacao,110.09,saida,Livraria Saraiva,pix
+2025-09-17,Servicos,servicos,40.5,saida,Salão Beauty,pix
+2025-09-17,Bar,lazer,138.87,saida,Academia FitPro,pix
+2025-09-18,Lanche,alimentacao,11.21,saida,Supreme Supermercados,credito
+2025-09-18,Servicos,servicos,107.16,saida,Assistência Técnica,pix
+2025-09-19,Vestuario,vestuario,21.35,saida,Floricultura Primavera,debito
+2025-09-19,Educacao,educacao,116.0,saida,Livraria Saraiva,credito
+2025-09-22,Bar,lazer,57.15,saida,Netflix,pix
+2025-09-22,Educacao,educacao,27.47,saida,Livraria Saraiva,credito
+2025-09-22,Vestuario,vestuario,34.99,saida,C&A,credito
+2025-09-23,Combustível,transporte,39.29,saida,99 Taxi,credito
+2025-09-24,Servicos,servicos,36.62,saida,Manutenção Residencial,pix
+2025-09-24,Servicos,servicos,71.39,saida,Manutenção Residencial,pix
+2025-09-25,Educacao,educacao,72.73,saida,Livraria Saraiva,debito
+2025-09-25,Mercado,alimentacao,27.62,saida,Supreme Supermercados,pix
+2025-09-25,Educacao,educacao,50.43,saida,Livraria Saraiva,pix
+2025-09-26,Reforma,transporte,649.55,saida,Posto Shell,pix
+2025-09-30,Vestuario,vestuario,99.4,saida,Nike,debito
+2025-10-01,Academia,saude,99.0,saida,Academia Vida Saudável,debito
+2025-10-01,Educacao,educacao,115.94,saida,Editora Moderna,pix
+2025-10-02,Celular,servicos,89.9,saida,Assistência Técnica,credito
+2025-10-02,Servicos,servicos,107.37,saida,Manutenção Residencial,debito
+2025-10-02,Café,alimentacao,35.34,saida,Feira Livre Central,credito
+2025-10-02,Servicos,servicos,97.46,saida,Oficina Mecânica,pix
+2025-10-03,Condomínio,moradia,350.0,saida,Lar Seguro Imóveis,debito
+2025-10-04,Streaming (Netflix+Spotify),lazer,79.9,saida,Parque Aquático,credito
+2025-10-05,Salário,receita,5039.04,entrada,Empresa ABC Ltda,pix
+2025-10-05,Aluguel,moradia,1200.0,saida,Casa Nova Imobiliária,debito
+2025-10-05,Plano de Saúde,saude,450.0,saida,Farmácia Popular,credito
+2025-10-06,Internet,moradia,120.0,saida,Morada Feliz,debito
+2025-10-06,Café,alimentacao,16.87,saida,Supreme Supermercados,pix
+2025-10-06,Metrô,transporte,43.4,saida,Uber,credito
+2025-10-06,Combustível,transporte,28.13,saida,99 Taxi,credito
+2025-10-07,Cinema,lazer,49.13,saida,Academia FitPro,debito
+2025-10-08,Bar,lazer,141.84,saida,Parque Aquático,credito
+2025-10-09,Uber,transporte,82.92,saida,Posto Shell,credito
+2025-10-09,Servicos,servicos,55.93,saida,Salão Beauty,credito
+2025-10-09,Educacao,educacao,91.36,saida,Livraria Saraiva,pix
+2025-10-15,Parque,lazer,40.6,saida,Netflix,debito
+2025-10-15,Padaria,alimentacao,20.0,saida,Hiper Atacado,debito
+2025-10-16,Café,alimentacao,16.91,saida,Supermercado Bom Preço,credito
+2025-10-16,Servicos,servicos,38.69,saida,Loja de Eletrônicos,debito
+2025-10-16,Estacionamento,transporte,27.4,saida,Metrô,debito
+2025-10-17,Bar,lazer,144.87,saida,Livraria Cultura,debito
+2025-10-17,Janta,alimentacao,45.0,saida,Supermercado Bom Preço,debito
+2025-10-20,Restaurante,lazer,88.0,saida,Academia FitPro,debito
+2025-10-21,Uber,transporte,71.08,saida,Ônibus Municipal,pix
+2025-10-21,Show,lazer,82.08,saida,Livraria Cultura,pix
+2025-10-21,Vestuario,vestuario,98.36,saida,C&A,pix
+2025-10-22,Vestuario,vestuario,60.11,saida,Renner,debito
+2025-10-22,Educacao,educacao,74.22,saida,Cursos Online Academy,credito
+2025-10-23,Estacionamento,transporte,56.98,saida,Ônibus Municipal,credito
+2025-10-23,Combustível,transporte,47.03,saida,Banca de Jornais,pix
+2025-10-23,Metrô,transporte,61.57,saida,Ônibus Municipal,debito
+2025-10-26,Compra do Mês,servicos,389.42,saida,Manutenção Residencial,pix
+2025-10-27,Estacionamento,transporte,18.35,saida,99 Taxi,credito
+2025-10-28,Servicos,servicos,115.2,saida,Salão Beauty,pix
+2025-10-28,Metrô,transporte,51.5,saida,Restaurante Sabor Caseiro,pix
+2025-10-28,Servicos,servicos,93.57,saida,Pet Shop Amigo Fiel,credito
+2025-10-29,Cinema,lazer,110.76,saida,Pet Shop Amigo Fiel,debito
+2025-10-29,Ônibus,transporte,62.74,saida,Posto Ipiranga,credito
+2025-10-30,Servicos,servicos,70.91,saida,Salão Beauty,pix
+2025-10-30,Educacao,educacao,106.19,saida,Cursos Online Academy,credito
+2025-11-02,Internet,moradia,120.0,saida,Casa Nova Imobiliária,pix
+2025-11-04,Plano de Saúde,saude,450.0,saida,Clínica Bem Estar,pix
+2025-11-05,Salário,receita,4708.39,entrada,Empresa ABC Ltda,pix
+2025-11-05,Servicos,servicos,88.18,saida,Manutenção Residencial,credito
+2025-11-05,Vestuario,vestuario,89.54,saida,Zara,debito
+2025-11-05,Show,lazer,73.64,saida,Netflix,pix
+2025-11-07,Academia,saude,99.0,saida,Farmácia Popular,debito
+2025-11-07,Streaming (Netflix+Spotify),lazer,79.9,saida,Netflix,pix
+2025-11-07,Servicos,servicos,28.07,saida,Salão Beauty,debito
+2025-11-09,Condomínio,moradia,350.0,saida,Casa Nova Imobiliária,pix
+2025-11-10,Aluguel,moradia,1200.0,saida,Casa Nova Imobiliária,pix
+2025-11-10,Celular,servicos,89.9,saida,Barbearia Elite,credito
+2025-11-10,Combustível,transporte,46.77,saida,Metrô,debito
+2025-11-10,Servicos,servicos,56.74,saida,Barbearia Elite,credito
+2025-11-10,Educacao,educacao,108.97,saida,Faculdade Digital,debito
+2025-11-11,Janta,alimentacao,32.03,saida,Pet Shop Amigo Fiel,pix
+2025-11-11,Ônibus,transporte,31.7,saida,99 Taxi,pix
+2025-11-11,Educacao,educacao,55.08,saida,Faculdade Digital,credito
+2025-11-13,Servicos,servicos,25.13,saida,Assistência Técnica,credito
+2025-11-13,Educacao,educacao,22.03,saida,Livraria Saraiva,pix
+2025-11-15,13º Salário,receita,2500.0,entrada,Empresa ABC Ltda,pix
+2025-11-19,Show,lazer,90.66,saida,Banca de Jornais,pix
+2025-11-19,Educacao,educacao,28.61,saida,Livraria Saraiva,pix
+2025-11-19,Mercado,alimentacao,19.42,saida,Feira Livre Central,credito
+2025-11-24,Servicos,servicos,49.87,saida,Assistência Técnica,pix
+2025-11-24,Vestuario,vestuario,106.03,saida,H&M,pix
+2025-12-01,Educacao,educacao,85.44,saida,Faculdade Digital,credito
+2025-12-02,Plano de Saúde,saude,450.0,saida,Drogaria Saúde,credito
+2025-12-02,Padaria,alimentacao,26.57,saida,Cafeteria Aroma,debito
+2025-12-02,Ônibus,transporte,76.16,saida,Uber,pix
+2025-12-03,Padaria,alimentacao,17.1,saida,Restaurante Sabor Caseiro,credito
+2025-12-03,Servicos,servicos,78.85,saida,Manutenção Residencial,credito
+2025-12-03,Vestuario,vestuario,117.18,saida,Lanchonete Rápida,credito
+2025-12-04,Mercado,alimentacao,35.92,saida,Feira Livre Central,pix
+2025-12-04,Bar,lazer,69.58,saida,Cinema Multiplex,credito
+2025-12-04,Estacionamento,transporte,19.51,saida,Posto Shell,debito
+2025-12-05,Salário,receita,4655.73,entrada,Empresa ABC Ltda,pix
+2025-12-05,Internet,moradia,120.0,saida,Conforto Lar,debito
+2025-12-05,Estacionamento,transporte,57.87,saida,99 Taxi,debito
+2025-12-06,Celular,servicos,89.9,saida,Barbearia Elite,pix
+2025-12-06,Streaming (Netflix+Spotify),lazer,79.9,saida,Livraria Cultura,credito
+2025-12-07,Aluguel,moradia,1200.0,saida,Morada Feliz,credito
+2025-12-08,Academia,saude,99.0,saida,Farmácia Popular,credito
+2025-12-08,Servicos,servicos,27.73,saida,Salão Beauty,pix
+2025-12-08,Ônibus,transporte,55.32,saida,99 Taxi,credito
+2025-12-08,Metrô,transporte,22.55,saida,Padaria Pão Quente,pix
+2025-12-10,Condomínio,moradia,350.0,saida,Morada Feliz,credito
+2025-12-10,Mercado,alimentacao,28.48,saida,Feira Livre Central,debito
+2025-12-10,Servicos,servicos,106.24,saida,Salão Beauty,credito
+2025-12-11,Equipamento,alimentacao,528.5,saida,Supreme Supermercados,pix
+2025-12-15,Vestuario,vestuario,85.21,saida,Zara,credito
+2025-12-17,Educacao,educacao,107.83,saida,Faculdade Digital,pix
+2025-12-17,Educacao,educacao,65.35,saida,Cursos Online Academy,debito
+2025-12-19,Educacao,educacao,55.58,saida,Livraria Saraiva,pix
+2025-12-19,Educacao,educacao,48.07,saida,Restaurante Sabor Caseiro,credito
+2025-12-22,Servicos,servicos,65.8,saida,Bar do Zé,credito
+2025-12-23,Estacionamento,transporte,53.0,saida,Cafeteria Aroma,debito
+2025-12-23,Janta,alimentacao,13.24,saida,Feira Livre Central,pix
+2025-12-23,Servicos,servicos,74.92,saida,Salão Beauty,pix
+2025-12-24,Show,lazer,87.77,saida,Bar do Zé,debito
+2025-12-26,Metrô,transporte,78.89,saida,Ônibus Municipal,debito
+2025-12-29,Educacao,educacao,91.37,saida,Livraria Saraiva,debito
+2025-12-30,Uber,transporte,17.79,saida,Posto Ipiranga,credito
+2025-12-30,Estacionamento,transporte,58.44,saida,Lanchonete Rápida,debito
+2025-12-30,Servicos,servicos,109.95,saida,Loja de Materiais de Construção,debito
+2025-12-30,Presente,lazer,321.74,saida,Academia FitPro,credito
+2025-12-31,Servicos,servicos,44.41,saida,Bar do Zé,credito
+2025-12-31,Educacao,educacao,75.92,saida,Editora Moderna,pix
+2025-12-31,Padaria,alimentacao,34.42,saida,Supermercado Bom Preço,credito

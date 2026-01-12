@@ -1,0 +1,10 @@
+categoria,percentual_recomendado,descricao
+moradia,30,"Inclui aluguel/hipoteca, condomínio, IPTU, contas de luz, água, gás, internet"
+alimentacao,15,"Supermercado, feira, padaria, restaurantes"
+transporte,10,"Combustível, manutenção do carro, transporte público, aplicativos"
+saude,10,"Plano de saúde, medicamentos, consultas, academia"
+lazer,10,"Streaming, cinema, viagens, hobbies, restaurantes"
+vestuario,5,"Roupas, calçados, acessórios"
+educacao,5,"Cursos, livros, material de estudo"
+investimentos,15,"Reserva de emergência, aposentadoria, investimentos"
+outros,10,"Presentes, doações, despesas imprevistas"
