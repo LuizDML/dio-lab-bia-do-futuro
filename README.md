@@ -1,4 +1,4 @@
-# 🤖 Agente Financeiro Inteligente com IA Generativa
+# 🤖 Virgo - Assistente Organizacional Financeiro
 
 ## Contexto
 
@@ -8,9 +8,6 @@ Os assistentes virtuais no setor financeiro estão evoluindo de simples chatbots
 - **Personalizar** sugestões com base no contexto de cada cliente
 - **Cocriar soluções** financeiras de forma consultiva
 - **Garantir segurança** e confiabilidade nas respostas (anti-alucinação)
-
-> [!TIP]
-> Na pasta [`examples/`](./examples/) você encontra referências de implementação para cada etapa deste desafio.
 
 ---
 
@@ -25,24 +22,16 @@ Defina **o que** seu agente faz e **como** ele funciona:
 - **Arquitetura:** Fluxo de dados e integração com a base de conhecimento
 - **Segurança:** Como evitar alucinações e garantir respostas confiáveis?
 
-📄 **Template:** [`docs/01-documentacao-agente.md`](./docs/01-documentacao-agente.md)
-
 ---
 
 ### 2. Base de Conhecimento
 
-Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alimentar seu agente:
-
 | Arquivo | Formato | Descrição |
 |---------|---------|-----------|
-| `transacoes.csv` | CSV | Histórico de transações do cliente |
+| `transacoes_completo.csv` | CSV | Histórico de transações do cliente |
 | `historico_atendimento.csv` | CSV | Histórico de atendimentos anteriores |
 | `perfil_investidor.json` | JSON | Perfil e preferências do cliente |
 | `produtos_financeiros.json` | JSON | Produtos e serviços disponíveis |
-
-Você pode adaptar ou expandir esses dados conforme seu caso de uso.
-
-📄 **Template:** [`docs/02-base-conhecimento.md`](./docs/02-base-conhecimento.md)
 
 ---
 
@@ -54,8 +43,6 @@ Documente os prompts que definem o comportamento do seu agente:
 - **Exemplos de Interação:** Cenários de uso com entrada e saída esperada
 - **Tratamento de Edge Cases:** Como o agente lida com situações limite
 
-📄 **Template:** [`docs/03-prompts.md`](./docs/03-prompts.md)
-
 ---
 
 ### 4. Aplicação Funcional
@@ -65,8 +52,6 @@ Desenvolva um **protótipo funcional** do seu agente:
 - Chatbot interativo (sugestão: Streamlit, Gradio ou similar)
 - Integração com LLM (via API ou modelo local)
 - Conexão com a base de conhecimento
-
-📁 **Pasta:** [`src/`](./src/)
 
 ---
 
@@ -79,19 +64,13 @@ Descreva como você avalia a qualidade do seu agente:
 - Taxa de respostas seguras (sem alucinações)
 - Coerência com o perfil do cliente
 
-📄 **Template:** [`docs/04-metricas.md`](./docs/04-metricas.md)
-
 ---
 
 ### 6. Pitch
 
-Grave um **pitch de 3 minutos** (estilo elevador) apresentando:
-
 - Qual problema seu agente resolve?
 - Como ele funciona na prática?
 - Por que essa solução é inovadora?
-
-📄 **Template:** [`docs/05-pitch.md`](./docs/05-pitch.md)
 
 ---
 
@@ -140,10 +119,3 @@ Todas as ferramentas abaixo possuem versões gratuitas:
 
 ---
 
-## Dicas Finais
-
-1. **Comece pelo prompt:** Um bom system prompt é a base de um agente eficaz
-2. **Use os dados mockados:** Eles garantem consistência e evitam problemas com dados sensíveis
-3. **Foque na segurança:** No setor financeiro, evitar alucinações é crítico
-4. **Teste cenários reais:** Simule perguntas que um cliente faria de verdade
-5. **Seja direto no pitch:** 3 minutos passam rápido, vá ao ponto
