@@ -29,6 +29,7 @@ Defina **o que** seu agente faz e **como** ele funciona:
 | Arquivo | Formato | Descrição |
 |---------|---------|-----------|
 | `transacoes_completo.csv` | CSV | Histórico de transações do cliente |
+| `gastos_recomendados.csv` | CSV | Recomendação de gastos por setor |
 | `historico_atendimento.csv` | CSV | Histórico de atendimentos anteriores |
 | `perfil_investidor.json` | JSON | Perfil e preferências do cliente |
 | `produtos_financeiros.json` | JSON | Produtos e serviços disponíveis |
@@ -117,5 +118,6 @@ Todas as ferramentas abaixo possuem versões gratuitas:
     └── README.md
 ```
 
+Obs. Juro que fiz alterações bem detalhadas nos Docs e no readme, porém os commits não parecem ter funcionado... então estou fazendo uma versão mais básica porque bateu uma frustração com isso e são 3h15 de uma segunda.
 ---
 
